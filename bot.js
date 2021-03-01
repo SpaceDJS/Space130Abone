@@ -125,7 +125,7 @@ client.on('error', e => {
 
 client.login(ayarlar.token);
 
-//---------------------------------KOMUTLAR---------------------------------\\
+//---------------------------------KOMUTLAR---------------------------------\\   //pink code alıntı davet linkleri: https://discord.gg/YsPdSU4URf //isterlerse silerim
 client.on("message", async msg => {
     const gereksiz = await db.fetch(`everhere_${msg.guild.id}`);
     if (gereksiz === "aktif") {
