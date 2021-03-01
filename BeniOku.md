@@ -1,3 +1,7 @@
 # Space130Abone - Altyapı
 
 **İZİNSİZ PAYLAŞILMASI YASAKTIR!**
+
+
+NOT: BAZI KODLAR PİNKCODE'DAN ALINMIŞTIR.
+SUNUCULARI: https://discord.gg/YsPdSU4URf
